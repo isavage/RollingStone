@@ -35,7 +35,7 @@
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
             BuildableName = "Rolling_Stone.app"
             BlueprintName = "Rolling_Stone iOS"
-            ReferencedContainer = "container:Rolling_Stone.xcodeproj">
+            ReferencedContainer = "container:Rolling Stone.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
             BuildableName = "Rolling_Stone.app"
             BlueprintName = "Rolling_Stone iOS"
-            ReferencedContainer = "container:Rolling_Stone.xcodeproj">
+            ReferencedContainer = "container:Rolling Stone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
